@@ -1,0 +1,40 @@
+
+body{
+    background-color: #e8e8e8;
+}
+
+.content {
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 1.8;
+    color: #273d46;
+
+    margin: 0 0 0 291px;
+}
+.content-top {
+        font-size: 14px;
+        line-height: 2.86;
+        letter-spacing: 2.8px;
+        color: #000;
+        margin: 123px 0 0 0;
+}
+.content-checklist {
+}
+.content-checklist-top {
+}
+.content-checklist-left {
+}
+.content-checklist-bottom {
+}
+.content-push {
+}
+.content-push-titles {
+}
+.content-push-buttons {
+}
+.content-input {
+}
+.content-input-title {
+}
+.content-input-textarea {
+}
