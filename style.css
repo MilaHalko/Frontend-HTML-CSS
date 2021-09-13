@@ -41,7 +41,7 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 body{
-    background: #e8e8e8 url(/Users/mila/Documents/Progs/HTML:CSS/Дз1/img/background.png) 50% 130px no-repeat;
+    background: #e8e8e8 url(/img/background.png) 50% 130px no-repeat;
 }
 
 .content {
@@ -106,7 +106,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     margin: 0 0 15px 0;
-    background: url(/Users/mila/Documents/Progs/HTML:CSS/Дз1/img/check.webp) left no-repeat;
+    background: url(/img/check.webp) left no-repeat;
     padding: 0 0 0 35px;
 }
 .content-bottom-info-list li:last-child {
@@ -149,5 +149,5 @@ body{
 }
 .content-bottom-info_link span {
     padding: 0 30px 0 0;
-    background: url(/Users/mila/Documents/Progs/HTML:CSS/Дз1/img/arrow.svg) right no-repeat;
+    background: url(/img/arrow.svg) right no-repeat;
 }
